@@ -1,5 +1,5 @@
 {
-    "dl": "http://localhost:8855/api/v1/mirror",
-    "api": "http://localhost:8855",
+    "dl": "http://nexus.example.com/repository/cargo-hosted/api/v1/mirror",
+    "api": "http://nexus.example.com/repository/cargo-hosted/",
     "allowed-registries": ["https://github.com/rust-lang/crates.io-index"]
 }
