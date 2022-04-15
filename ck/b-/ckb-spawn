@@ -18,3 +18,6 @@
 {"name":"ckb-spawn","vers":"0.101.5","deps":[],"cksum":"47212dc60917afde5c01d660fc2f3fb6b7748d95c1f3c1fd0a5323cd032abe71","features":{},"yanked":true,"links":null}
 {"name":"ckb-spawn","vers":"0.101.6","deps":[],"cksum":"ca1a7b847d20527992a3925af6c0bd68a7acd654bdddef439fe063407c89a069","features":{},"yanked":false,"links":null}
 {"name":"ckb-spawn","vers":"0.101.7","deps":[],"cksum":"db3a09108d970f0010986075c88442619ae9041f7de28b00a6b9b4879aa9b547","features":{},"yanked":false,"links":null}
+{"name":"ckb-spawn","vers":"0.101.8","deps":[],"cksum":"a6000775fe4f89379664a70567bb70080b6af8247bea4cfaf35b4afd499bee3d","features":{},"yanked":false,"links":null}
+{"name":"ckb-spawn","vers":"0.102.0","deps":[],"cksum":"d3fd70e6dc3e7720e6d96b54f939791cd740dd5fc996380ebd66568eda3906d4","features":{},"yanked":true,"links":null}
+{"name":"ckb-spawn","vers":"0.103.0","deps":[],"cksum":"081b63e01647c409ae325a3f85d153fc7c1e544a1c57136ddf59c092f937e1e0","features":{},"yanked":false,"links":null}
